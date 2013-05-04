@@ -4,6 +4,6 @@
     "private": true,
     "dependencies": {
         "asyncjs": "~0.0.2",
-        "libxml": "0.0.7"
+        "libxml": "https://github.com/enqack/node-libxml/tarball/v0.10-compat"
     }
 }
